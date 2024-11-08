@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile! 👋
 
 ### About Me ℹ️
-I am a FullStack Web Developer who is passionate about new technologies and trying out new things. I also enjoy sharing my knowledge and experience through repositories and projects that I create.
+I am a FullStack & Software Engineer who is passionate about new technologies and trying out new things. I also enjoy sharing my knowledge and experience through repositories and projects that I create.
 
 ### Favorite Programming Languages 💻
 - JavaScript
