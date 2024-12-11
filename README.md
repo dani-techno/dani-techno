@@ -5,14 +5,14 @@ I am a Full Stack Engineer who is passionate about new technologies and trying o
 
 ### Favorite Programming Languages 💻
 - JavaScript
-- PhP
+- PHP
 - Python
 - HTML (Markup Language)
 - CSS (Design Language)
 
 ### Favorite Programming Tools ⚒️
-- NodeJs (Runtime Environment)
-- ExpressJs (NodeJs Framework)
+- NodeJs
+- ExpressJs
 - EJS
 - Slim
 - Twig
