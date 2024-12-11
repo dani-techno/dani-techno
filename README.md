@@ -13,6 +13,9 @@ I am a FullStack & Software Engineer who is passionate about new technologies an
 ### Favorite Programming Tools ⚒️
 - NodeJs (Runtime Environment)
 - ExpressJs (NodeJs Framework)
+- EJS
+- Slim
+- Twig
 - Bootstrap
 - Tailwind
 
