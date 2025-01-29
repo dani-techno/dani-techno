@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile!
 
 ### About Me ℹ️
-Hi!👋, let me introduce myself. My name is Dani Ramdani, but I usually go by Dani Tech. I am a Full Stack Engineer who is passionate about creating new technologies and trying new things, such as building Websites, WhatsApp bots, and Telegram bots. I also enjoy sharing knowledge and experiences through the repositories and projects I create.
+Hi!👋, let me introduce myself. My name is Dani Joestar, but I usually go by Dani Tech. I am a Full Stack Engineer who is passionate about creating new technologies and trying new things, such as building Websites, WhatsApp bots, and Telegram bots. I also enjoy sharing knowledge and experiences through the repositories and projects I create.
 
 ## Favorite Programming Languages and Tools
 
@@ -15,6 +15,38 @@ Hi!👋, let me introduce myself. My name is Dani Ramdani, but I usually go by D
 ### Favorite Programming Tools ⚒️
 - **Node.js (JavaScript Runtime)**: A JavaScript runtime built on Chrome's V8 engine, allowing you to run JavaScript on the server.
 - **Express.js (Node.js Framework)**: A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+- **React.js**:
+- **Vue.js**:
+- **Next.js**:
+- **D3.js**:
+- **Underscore.js**:
+- **Anime.js**:
+- **Bideo.js**:
+- **Chart.js**:
+- **Cleave.js**:
+- **Choreographer.js**:
+- **Granim.js**:
+- **fullPage.js**:
+- **Leaflet**:
+- **Multiple.js**:
+- **Moment.js**:
+- **Popper.js**:
+- **Three.js**:
+- **Screenfull.js**:
+- **Lodash**:
+- **Glimmer**:
+- **Polymer**:
+- **Voca**:
+- **Masonry**:
+- **Omniscient**:
+- **Parsley**:
+- **Algolia Places**:
+- **Nodemailer**:
+- **Baileys**:
+- **Cheerio**:
+- **jQuery**:
+- **Fetch API**:
+- **Axios**:
 - **Slim (PHP Framework)**: A lightweight PHP framework that helps you quickly write simple yet powerful web applications and APIs.
 - **Twig**: A modern template engine for PHP, used with Slim to create clean and readable templates.
 - **EJS**: A simple templating language that lets you generate HTML markup with plain JavaScript.
