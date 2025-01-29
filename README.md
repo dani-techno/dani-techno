@@ -7,15 +7,19 @@ Hi!👋, let me introduce myself. My name is Dani Joestar, but I usually go by D
 
 ### Favorite Programming Languages 💻
 - **JavaScript**: A versatile programming language primarily used for web development, both on the client-side and server-side with Node.js.
+- **TypeScript**:
 - **PHP**: A server-side scripting language widely used for creating dynamic web applications.
 - **Python**: A powerful programming language known for its readability and versatility, often used in web development, data analysis, and artificial intelligence.
 - **HTML (Markup Language)**: The standard markup language for creating web pages, defining the structure and content of a webpage.
 - **CSS (Design Language)**: A style sheet language used for describing the presentation of a document written in HTML, enabling the design and layout of web pages.
-- **Go**:
+- **Go (Go-lang)**:
 - **Java**:
 - **C**:
 - **C++ (C Plus Plus)**:
 - **C# (C Sharp)**:
+- **Rust**:
+- **Ruby**:
+- **Kotlin**:
 
 ### Favorite Programming Tools ⚒️
 - **Slim (PHP Framework)**: A lightweight PHP framework that helps you quickly write simple yet powerful web applications and APIs.
