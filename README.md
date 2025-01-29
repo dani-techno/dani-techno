@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile!
 
 ### About Me ℹ️
-Hi!👋, let me introduce myself. My name is Dani Joestar, but I usually go by Dani Tech. I am a Full Stack Engineer who is passionate about creating new technologies and trying new things, such as building Websites, WhatsApp bots, and Telegram bots. I also enjoy sharing knowledge and experiences through the repositories and projects I create.
+Hi!👋, let me introduce myself. My name is Dani Joestar, but I usually go by Dani Tech. I am a Full Stack & Software Engineer who is passionate about creating new technologies and trying new things, such as building Websites, WhatsApp bots, and Telegram bots. I also enjoy sharing knowledge and experiences through the repositories and projects I create.
 
 ## Favorite Programming Languages and Tools
 
@@ -11,6 +11,11 @@ Hi!👋, let me introduce myself. My name is Dani Joestar, but I usually go by D
 - **Python**: A powerful programming language known for its readability and versatility, often used in web development, data analysis, and artificial intelligence.
 - **HTML (Markup Language)**: The standard markup language for creating web pages, defining the structure and content of a webpage.
 - **CSS (Design Language)**: A style sheet language used for describing the presentation of a document written in HTML, enabling the design and layout of web pages.
+- **Go**:
+- **Java**:
+- **C**:
+- **C++ (C Plus Plus)**:
+- **C# (C Sharp)**:
 
 ### Favorite Programming Tools ⚒️
 - **Slim (PHP Framework)**: A lightweight PHP framework that helps you quickly write simple yet powerful web applications and APIs.
