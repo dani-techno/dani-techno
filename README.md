@@ -61,6 +61,25 @@ Hi!👋, let me introduce myself. My name is Dani Joestar, but I usually go by D
 - **jQuery**:
 - **Fetch API**:
 - **Axios**:
+- **Gin**:
+- **Gon**:
+- **Whatsmeow**:
+- **Spring Boot**:
+- **Hibernate**:
+- **GTK**:
+- **Libcurl**:
+- **Boost**:
+- **Qt**:
+- **ASP.NET**:
+- **Entity**:
+- **Django**:
+- **Flash**:
+- **TensorFlow**:
+- **Sinatra**:
+- **Actix**:
+- **Tokio**:
+- **Ktor**:
+- **Jetpack Compose**:
 
 ## How to Contact Me 📫
 If you would like to collaborate or just chat, feel free to contact me via email: [dani.technology.id@gmail.com](mailto:dani.technology.id@gmail.com)
