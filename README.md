@@ -13,6 +13,11 @@ Hi!👋, let me introduce myself. My name is Dani Joestar, but I usually go by D
 - **CSS (Design Language)**: A style sheet language used for describing the presentation of a document written in HTML, enabling the design and layout of web pages.
 
 ### Favorite Programming Tools ⚒️
+- **Slim (PHP Framework)**: A lightweight PHP framework that helps you quickly write simple yet powerful web applications and APIs.
+- **Twig**: A modern template engine for PHP, used with Slim to create clean and readable templates.
+- **EJS**: A simple templating language that lets you generate HTML markup with plain JavaScript.
+- **Bootstrap**: A popular front-end framework for developing responsive and mobile-first websites quickly and easily.
+- **Tailwind CSS**: A utility-first CSS framework that provides low-level utility classes to build custom designs without leaving your HTML.
 - **Node.js (JavaScript Runtime)**: A JavaScript runtime built on Chrome's V8 engine, allowing you to run JavaScript on the server.
 - **Express.js (Node.js Framework)**: A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 - **React.js**:
@@ -47,11 +52,6 @@ Hi!👋, let me introduce myself. My name is Dani Joestar, but I usually go by D
 - **jQuery**:
 - **Fetch API**:
 - **Axios**:
-- **Slim (PHP Framework)**: A lightweight PHP framework that helps you quickly write simple yet powerful web applications and APIs.
-- **Twig**: A modern template engine for PHP, used with Slim to create clean and readable templates.
-- **EJS**: A simple templating language that lets you generate HTML markup with plain JavaScript.
-- **Bootstrap**: A popular front-end framework for developing responsive and mobile-first websites quickly and easily.
-- **Tailwind CSS**: A utility-first CSS framework that provides low-level utility classes to build custom designs without leaving your HTML.
 
 ## How to Contact Me 📫
 If you would like to collaborate or just chat, feel free to contact me via email: [dani.technology.id@gmail.com](mailto:dani.technology.id@gmail.com)
