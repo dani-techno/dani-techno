@@ -42,6 +42,8 @@ Hi!👋, let me introduce myself. My name is Dani Joestar, but I usually go by D
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)  
 
 ## How to Contact Me 📫
-If you would like to collaborate or just chat, feel free to contact me via email: [dani.technology.id@gmail.com](mailto:dani.technology.id@gmail.com)
+If you would like to collaborate or just chat, feel free to contact me via:
+- Email: [dani.technology.id@gmail.com](mailto:dani.technology.id@gmail.com)
+- WhatsApp: [+6282320667363](https://wa.me/+6282320667363)
 
 Thank you for visiting my GitHub profile! 😊
