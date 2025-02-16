@@ -66,6 +66,6 @@ Hi! 👋 Let me introduce myself. My name is **Dani Joestar**, but I usually go 
 If you would like to collaborate or just have a chat, feel free to reach out via:
 
 - 📧 Email: [dani.technology.id@gmail.com](mailto:dani.technology.id@gmail.com)
-- 📱 WhatsApp: [+62 838 3499 4479](https://wa.me/+6283834994499) or [+62 823 2066 7363](https://wa.me/+6282320667363)
+- 📱 WhatsApp: [+62 838 3499 4479](https://wa.me/+6283834994479) or [+62 823 2066 7363](https://wa.me/+6282320667363)
 
 Thank you for visiting my GitHub profile! 😊
