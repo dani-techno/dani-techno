@@ -1,12 +1,8 @@
 ## Welcome to My GitHub Profile! 🚀
 
----
-
 ### ℹ️ About Me
 
 Hi! 👋 Let me introduce myself. My name is **Dani Joestar**, but I usually go by **Dani Tech**. I am a **Full Stack & Software Engineer** who is passionate about creating new technologies and experimenting with various projects. My interests include building **websites**, **WhatsApp bots**, and **Telegram bots**. I also love **sharing knowledge** and **collaborating** on open-source projects.
-
----
 
 ## 🛠 Favorite Programming Languages and Tools
 
@@ -58,8 +54,6 @@ Hi! 👋 Let me introduce myself. My name is **Dani Joestar**, but I usually go 
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose">
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework">
 </div>
-
----
 
 ## 📬 How to Contact Me
 
