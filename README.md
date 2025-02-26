@@ -34,7 +34,7 @@ Hi! 👋 Let me introduce myself. My name is **Dani Joestar**, but I usually go 
   <img src="https://img.shields.io/badge/nodemon-43853D?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon">
   <img src="https://img.shields.io/badge/yarn-000000?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MomgoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb">
+  <img src="https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js">
